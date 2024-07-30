@@ -1,0 +1,19 @@
+{
+  "name": "smallbackenddeployment",
+  "version": "1.0.0",
+  "description": "deploying a very simple and small app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "Satvik Anand",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
